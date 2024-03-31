@@ -1,4 +1,4 @@
-# AutoInject
+# TrknAutoInject
 
 Outil automatique pour l'analyse des ports et des services avec Nmap, ainsi que pour les tests d'injection SQL avec SQLmap.
 
