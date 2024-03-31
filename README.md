@@ -6,7 +6,7 @@ C'est la solution parfaite si vous souhaitez centraliser ces outils dans une seu
 
 Développé par trhacknon.
 
-![autoinject](https://github.com/tucommenceapousser/autoinject/raw/Me/sqli.jpg)]
+![autoinject](https://github.com/tucommenceapousser/trknautoinject/raw/Me/sqli.jpg)]
 
 ## Injection SQL
 
@@ -25,12 +25,12 @@ Ce script automatise le processus d'analyse des ports avec Nmap et de test d'inj
 
 1. Clonez le dépôt :
     ```
-    git clone https://github.com/tucommenceapousser/autoinject
+    git clone https://github.com/tucommenceapousser/trknautoinject
     ```
 
 2. Accédez au répertoire cloné :
     ```
-    cd autoinject
+    cd trknautoinject
     ```
 
 3. Installez les dépendances requises :
@@ -65,4 +65,4 @@ Si vous trouvez cet outil utile, vous pouvez me soutenir en m'offrant un café !
 
 ## Exécutez sur Replit
 
-[![Run on Repl.it](https://repl.it/badge/github/tucommenceapousser/autoinject)](https://repl.it/github/tucommenceapousser/autoinject)
+[![Run on Repl.it](https://repl.it/badge/github/tucommenceapousser/trknautoinject)](https://repl.it/github/tucommenceapousser/trknautoinject)
