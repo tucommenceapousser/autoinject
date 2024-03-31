@@ -48,6 +48,15 @@ Ce script automatise le processus d'analyse des ports avec Nmap et de test d'inj
     python3 autoinject.py
     ```
 
+## Options
+
+- **Tor**: Utilisez le réseau Tor pour les requêtes effectuées par SQLmap.
+- **Risk**: Déterminez le niveau de risque des tests effectués par SQLmap (1 à 3).
+- **Level**: Définissez le niveau de profondeur des tests effectués par SQLmap (1 à 5).
+- **Random-Agent**: Choisissez aléatoirement un agent utilisateur pour chaque requête HTTP envoyée par SQLmap.
+
+En utilisant ces options, vous pouvez personnaliser et ajuster le comportement de SQLmap selon vos besoins et les exigences de votre test d'injection SQL.
+
 ## Support
 
 Si vous trouvez cet outil utile, vous pouvez me soutenir en m'offrant un café !
